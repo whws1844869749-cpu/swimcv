@@ -1,0 +1,21 @@
+# Python and IDE files
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+
+# Local data, model weights, and generated inference artifacts
+input/
+video/
+output/
+runs/
+models/
+*.pt
+*.pth
+*.onnx
+*.avi
+*.mp4
+
+# Operating-system files
+.DS_Store
+Thumbs.db
