@@ -10,11 +10,15 @@ video/
 output/
 runs/
 models/
+files/
 *.pt
 *.pth
 *.onnx
 *.avi
 *.mp4
+*.png
+*.jpg
+*.jpeg
 
 # Operating-system files
 .DS_Store
